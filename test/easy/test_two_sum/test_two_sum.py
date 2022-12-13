@@ -1,4 +1,4 @@
-from src.easy.two_sum import Solution
+from easy.two_sum.two_sum import Solution
 
 # data
 nums = [2, 7, 11, 15]
